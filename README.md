@@ -1,4 +1,4 @@
-# WAST_Reconfig
+# WAST Stock Realism Rebalances
 
 Reconfiged stock and some mod parts for more realism. Recommended to use with Kerbin365 (3.2x planets, 6.4x orbital dist.), since some rocket engines will be a bit overpowered. If you're an atmosphereic guy, you should be good either way.
  
@@ -14,7 +14,7 @@ SEE SRR's [[FORUM THREAD](http://forum.kerbalspaceprogram.com/threads/140231)] F
  
 ##– FEATURES – 
 
-####Rebalances
+#####Rebalances
 - Reduced jets' specific impulses
 - Reduced most jets' operating speed
 - Reduced altitude of operations of jets
@@ -28,7 +28,7 @@ SEE SRR's [[FORUM THREAD](http://forum.kerbalspaceprogram.com/threads/140231)] F
 - S1 KD-25k Kickback SRB now has a thrust curve relative to fuel level and a gimbal has been added
 - More to come
 
-####Parts
+#####Parts
 - Added a small SRB mimicking the IUS
 - Components of an active liquid-cooling cycle (not yet)
 - An Mk2 sized engine precooler (needs more testings)
